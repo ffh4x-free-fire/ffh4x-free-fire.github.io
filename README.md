@@ -1,6 +1,8 @@
 # FFH4X Free Fire Mod APK Injector
 
-Injector for free fire game - ffh4x!
+**Injector for free fire game - FFH4X!**
+
+[![FFH4X Showcase](https://i.ibb.co/kSY3P0K/ffh4x-menu.jpg)](https://modmenuz.com/free-fire/ffh4x/)
 
 This is an injector for the game free fire, made by me. It's simple to use and very effective. Just download it, unzip it and run the .exe file. It will inject the hacks into the game.
 
