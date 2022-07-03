@@ -1,3 +1,5 @@
+<head> <link rel="shortcut icon" type="image/x-icon" href="f.ico"></head>
+
 # FFH4X Free Fire Mod APK Injector
 
 **Injector for free fire game - FFH4X!**
