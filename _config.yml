@@ -40,11 +40,11 @@ round-avatar: true
 social-network-links:
   email: "ffh4xfreefire@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: ffh4x
+#  facebook: ffh4x
   github: ffh4x-free-fire
-  twitter: ffh4x
-  patreon: ffh4x
-  youtube: c/ffh4x
+#  twitter: ffh4x
+#  patreon: ffh4x
+#  youtube: c/ffh4x
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
