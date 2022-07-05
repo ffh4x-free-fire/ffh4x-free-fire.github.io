@@ -14,10 +14,9 @@ author: Garena Free Fire
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+   Resources:
     - Tinkercad: "https://www.tinkercad.com/things/09yo8YDmRVg-ffh4x-apk-pc-download"
-  Author's home: "https://tapas.io/FFH4X"
+    - Tapas: "https://tapas.io/FFH4X"
 
 # --- Logo --- #
 
